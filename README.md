@@ -1,3 +1,4 @@
 # portfolio
-this is personal portfolio
-link to open https://mujammilsaifi.github.io/portfolio/
+This is my personal portfolio.
+you must visit my portfolio.
+click this link to visit https://mujammilsaifi.github.io/portfolio/
